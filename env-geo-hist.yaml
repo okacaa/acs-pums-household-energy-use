@@ -1,0 +1,12 @@
+name: C:\Users\zcole\my_projects\wx_maps\env-geo
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - geopandas
+  - geoviews
+  - scipy
+  - jupyter
+  - descartes
+prefix: C:\Users\zcole\my_projects\wx_maps\env-geo
+
